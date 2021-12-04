@@ -1,0 +1,131 @@
+name: David Rodríguez Hidalgo
+support_dark_mode: true
+fork: true
+
+# Sidebar
+contact:
+  email: david.rodriguezhidalgo@yahoo.com
+  github: DavidRodriguezHidalgo
+  linkedin: david-rodríguez-hidalgo-189a2b67
+  phone: 
+  gitlab: 
+  twitter: denzilrh90
+
+languages:
+  - idiom: Spanish
+  - idiom: English
+
+education:
+  - degree: Degree in Computer Science – Information system specialization
+    time: 2008-2014
+    university: Granada University, Granada Spain
+
+skills:
+  - category: Backend
+    skill: 
+      - Ruby on rails
+  - category: Frontend
+    skill:
+      - React
+      - Typescript
+  - category: DevOps
+    skill:
+      - Docker
+
+# Experience
+experience:
+  - role: Fullstack Developer
+    time: 01/04/2021-Present
+    company: Camaloon
+    details: |
+      I worked on a part of the application called Print on Demand. Doing developments with React and Ruby on Rails. Print on Demand allow customers to create their own       stores with several integrations Woocommerce, Shopify, Prestashop...
+    technologies_used: | 
+      Ruby on Rails, Angular, React, Graphql, Typescript, PHP
+  - role: Ruby on Rails Developer
+    time: 01/01/2018-31/03/2021
+    company: Nazaries
+    details: |
+      I started as an Intern doing a demo project to learn ruby on rails. After that, I was designed to two team leaders who assigned me the tasks. Usually, the team lea
+      der is who starts projects, since they know every single detail about the app
+    technologies_used: | 
+      Ruby on Rails, React
+
+projects:
+  - title: Easystay
+    link: http://www.easystay.es
+    details: |
+      Web for hotels focused on customer experience improvement. I started this project alone as the only developer (this was my first project alone). The project grew 
+      up so much in a year that I led the team which was working over this (2 developers) and now we are present in 12 or more hotels.
+  - title: Caballería de Guardamar
+    link: http://lacaballeriaguardamar.com
+    details: |
+      Restaurant web landing page. I worked on this page when I was an intern, with the supervision of a coworker.
+  - title: Centre Pompidou
+    link: http://accueil.billetterie.centrepompidou.fr
+    details: |
+      Ticketing museum landing page. I worked alone in this project. It was based on Secutix API to gets populated, and I had to take this data and just make a good 
+      design for that information.
+  - title: Nazaries
+    link: http://www.nazaries.com
+    details: |
+      Main page for Nazaries IT. This page was started by another coworker but I had to finish it. I gained some experience with one-page scroll sites like this and 
+      ceres landing.
+  - title: Ceres landing page
+    link: http://www.tecnologia-agricola.com
+    details: |
+      Landing page for controlceres. I started working on this almost at the same time as with Nazaries main page. This was an experiment to try a javascript plugin 
+      which allows us to do one-page scroll sites (fullpage.js)
+  - title: Imperial Foundation
+    link: http://www.imperialfoundation.com
+    details: |
+      Imperial foundation cancer’s research page. This was started by another coworker and I ended this project. I was the only developer and the one who was taking 
+      development decisions and receiving feedback directly from the client.
+  - title: Aspro Parks
+    link: https://tickets-adeje.aqualand.es
+    details: |
+      Frontend developed with React and Rails for ticketing selling. Implemented with Ruby on Rails 4, this was the first project which I did with React for the 
+      frontend.
+  - title: Amnistía internacional
+    link: https://activismo.es.amnesty.org
+    details: |
+      Legacy platform to manage activists of this organization. Done with Ruby on Rails 3
+  - title: Fluetis
+    link: https://platform.fluetis.com
+    details: |
+      MVP platform. Still on development, it will allow to sellers from Singapore to sell his products in Europe and other markets around the world. It has a backend 
+      made in Ruby on Rails and frontend with create-react-app.
+  - title: Physio
+    link: http://www.erwcpt.eu
+    details: |
+      Page focused on physiotherapists and other medical professionals
+  - title: Velez de Benaudalla
+    link: http://www.velezdebenaudalla.es
+    details: |
+      Town hall web site
+  - title: Romanoff
+    link: http://www.romanoffpartners.com
+    details: |
+      Romanoff partners web site
+  - title: Port Monitor
+    link: https://es.port-monitor.com
+    details: |
+      Web for monitoring other websites
+  - title: Ceres
+    link: http://www.controlceres.com
+    details: |
+      Greenhouse monitoring system. We have several stations connected to the portal sending information about weather conditions, state of the soil and you can 
+      trigger irrigation system via web.
+  - title: Decidecrop
+    link: https://ceres.nazaries.cloud
+    details: |
+      New web to unificate Skade and Ceres.
+  - title: Northgate Arinso
+    link: http://www.ngahr.com
+    details: |
+      Web solution that reduces the complexity of global payroll by connecting cloud based systems like Workday or SuccessFactors. Present in over 145 countries. I 
+      worked for this company as an external contractor / consultant for a while, then I stopped and started again in April, 2017. I have been doing different 
+      developments there, UX improvements and new designs, document management and some internal improvements.
+  - title: Camaloon
+    link: http://www.camaloon.es
+    details: |
+      Web to design and sell products with tools which allow you to customize products and even have stores and sell your catalog to your customers.

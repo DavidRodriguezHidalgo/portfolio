@@ -1,0 +1,16 @@
+title: David Rodríguez | Fullstack Developer
+description: I am Ruby on Rails and React developer.
+url: https://bitbucket.org/Denzil90/portfolio_jekyll
+baseurl: ''
+theme_skin: blue
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+    - jekyll-minifier
+
+exclude:
+  - docker-compose.yml
+  - vendor
