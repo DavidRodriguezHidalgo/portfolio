@@ -35,7 +35,14 @@ skills:
 # Experience
 experience:
   - role: Fullstack Developer
-    time: 01/04/2021-Present
+    time: 10/10/2022-Present
+    company: Factorial
+    details: |
+      I worked at finance domain, first at expenses team after a while we had our own team called It Management where we work on Software subscription management application. Later on, they changed the teams and we work on Payment policies and Budgets.
+    technologies_used: | 
+      Ruby on Rails, React, Graphql, Typescript, Resource Registry
+  - role: Fullstack Developer
+    time: 01/04/2021-03-10/2022
     company: Camaloon
     details: |
       I worked on a part of the application called Print on Demand. Doing developments with React and Ruby on Rails. Print on Demand allow customers to create their own       stores with several integrations Woocommerce, Shopify, Prestashop...
