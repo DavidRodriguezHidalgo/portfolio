@@ -5,11 +5,18 @@
     {% for p in projects %}
         <div class="project">
             <span>
+                {% if p.link %}
                 <a class="project-link" href="{{p.link}}">
                     {{p.title}}
                 </a>
+                {% else %}
+                <span class="project-link">{{p.title}}</span>
+                {% endif %}
             </span>
             <span class="details">- {{p.details}}</span>
+            {% if p.contributions %}
+            <p class="contributions"><strong>Key Contribution:</strong> {{p.contributions}}</p>
+            {% endif %}
         </div>
     {% endfor %}
 </section>

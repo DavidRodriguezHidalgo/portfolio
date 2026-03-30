@@ -11,7 +11,15 @@
                 {{exp.company}} 
                 <span class="time">{{exp.time}}</span>
             </div> 
-            <div class="details">{{exp.details}}</div>
+            <div class="details">
+                {% if exp.details.size > 0 %}
+                <ul>
+                    {% for detail in exp.details %}
+                    <li>{{ detail }}</li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            </div>
             <p class="technologies">Technologies Used: {{exp.technologies_used}}</p>
         </div>
        

@@ -1,0 +1,12 @@
+{% assign ai_modern = site.data.data.ai_modern %}
+{% if ai_modern %}
+<section class="ai-modern">
+    <h2 class="title">AI & Modern Development</h2>
+    {% for item in ai_modern %}
+        <div class="ai-modern-item">
+            <div class="ai-modern-title">{{ item.title }}</div>
+            <div class="ai-modern-details">{{ item.details }}</div>
+        </div>
+    {% endfor %}
+</section>
+{% endif %}

@@ -1,0 +1,14 @@
+.ai-modern {
+    .title {
+        @include header;
+    }
+    .ai-modern-item {
+        margin-bottom: 12px;
+        .ai-modern-title {
+            @include sub-header;
+        }
+        .ai-modern-details {
+            @include body-text;
+        }
+    }
+}

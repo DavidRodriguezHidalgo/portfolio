@@ -10,5 +10,11 @@
         .details {
             @include body-text;
         }
+        .contributions {
+            @include body-text;
+            margin-top: 4px;
+            font-style: italic;
+            color: var(--fg-color-title-sm);
+        }
     }
 }

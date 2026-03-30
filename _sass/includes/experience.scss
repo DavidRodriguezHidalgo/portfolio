@@ -17,6 +17,14 @@
         }
         .details {
             @include body-text;
+            ul {
+                margin: 8px 0 8px 20px;
+                padding: 0;
+                li {
+                    margin-bottom: 6px;
+                    line-height: 1.5;
+                }
+            }
         }
         .technologies {
             @include body-text;
